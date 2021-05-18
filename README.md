@@ -7,7 +7,7 @@ The Decompressoin tool for Vxworks MINIFS filesystem.
 python minifs_decompression.py [target_firmware]
 ```
 
-example:
+The example of Mercury router firmware:
 
 ```bash
 $ python minifs_decompress.py ./MW305R.BIN

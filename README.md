@@ -1,5 +1,5 @@
 # MINIFS-Decompression
-The Decompressoin tool for Vxworks MINIFS.
+The Decompressoin tool for Vxworks MINIFS filesystem.
 
 ## USAGE
 

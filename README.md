@@ -175,6 +175,11 @@ $ tree
 9 directories, 124 files
 ```
 
+
+- The file items displayed in 010Editor：
+
+    ![](./minifs.png)
+
 ## Reference
 
 1. http://patentlib.net/mnt/sipo/A/20200818/5/CN102020000408790CN00001115525110AFULZH20200818CN00V/
